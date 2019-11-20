@@ -1,6 +1,6 @@
 # MAGD 150 Examples
 
-This is a repository for MAGD 150!
+This is my repository for MAGD 150!
 
 ## Lab 1 - Static Compositions in Black and White
 
